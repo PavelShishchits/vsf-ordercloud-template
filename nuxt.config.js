@@ -118,8 +118,7 @@ export default {
     transpile: [
       'vee-validate/dist/rules',
       'storefront-ui',
-      '@glidejs/glide',
-      'pathe'
+      '@glidejs/glide'
     ],
     plugins: [
       new webpack.DefinePlugin({
