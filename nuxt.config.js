@@ -119,7 +119,6 @@ export default {
       'vee-validate/dist/rules',
       'storefront-ui',
       '@glidejs/glide',
-      'pathe'
     ],
     plugins: [
       new webpack.DefinePlugin({
