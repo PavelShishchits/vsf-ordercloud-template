@@ -14,10 +14,6 @@ export default {
     bannerC: {
       link: '/',
       image: '/homepage/bannerC.webp'
-    },
-    bannerD: {
-      link: '/',
-      image: '/homepage/bannerG.webp'
     }
   }
 };
