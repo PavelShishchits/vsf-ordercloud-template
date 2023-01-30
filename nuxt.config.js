@@ -119,7 +119,6 @@ export default {
       'vee-validate/dist/rules',
       'storefront-ui',
       '@glidejs/glide',
-      '@nuxtjs/composition-api',
       'pathe'
     ],
     plugins: [
